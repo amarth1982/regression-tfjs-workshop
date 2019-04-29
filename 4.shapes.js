@@ -9,6 +9,7 @@ function draw() {
   // fill(250);
   // ellipse(windowWidth / 2, windowHeight / 2, 100);
   //   // 3
+  fill(0);
   strokeWeight(10);
   stroke(250);
   ellipse(windowWidth / 2, windowHeight / 2, 100);
